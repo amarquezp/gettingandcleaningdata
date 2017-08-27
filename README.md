@@ -6,9 +6,9 @@ Peer-graded Assignment: Getting and Cleaning Data Course Project
 2. The raw data exists in a folder UCI HAR Dataset, which is directly from unzipping the downloaded package from URL: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-# To run the project: 
- source("run_analysis.R")
- mergeTrainAndTest()
+# To run the project:
+1. source("run_analysis.R")
+2. mergeTrainAndTest()
 
 # Algorithm
 1. Define the path to the different file paths
