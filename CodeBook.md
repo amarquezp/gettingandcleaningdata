@@ -2,91 +2,91 @@
 
 # Dictionary of variables for the resulted TIDY Data set:
 
-subject_id	-	Identifier number for the subject
-activityName	-	The activity Name, from activities_labels.txt
-mean-tbodyacc-mean-x-1	-	mean of the bodyacc-mean-x-1
-mean-tbodyacc-mean-y-2	-	mean of the bodyacc-mean-y-2
-mean-tbodyacc-mean-z-3	-	mean of the bodyacc-mean-z-3
-mean-tbodyacc-std-x-4	-	mean of the bodyacc-std-x-4
-mean-tbodyacc-std-y-5	-	mean of the bodyacc-std-y-5
-mean-tbodyacc-std-z-6	-	mean of the bodyacc-std-z-6
-mean-tgravityacc-mean-x-41	-	mean of the gravityacc-mean-x-41
-mean-tgravityacc-mean-y-42	-	mean of the gravityacc-mean-y-42
-mean-tgravityacc-mean-z-43	-	mean of the gravityacc-mean-z-43
-mean-tgravityacc-std-x-44	-	mean of the gravityacc-std-x-44
-mean-tgravityacc-std-y-45	-	mean of the gravityacc-std-y-45
-mean-tgravityacc-std-z-46	-	mean of the gravityacc-std-z-46
-mean-tbodyaccjerk-mean-x-81	-	mean of the bodyaccjerk-mean-x-81
-mean-tbodyaccjerk-mean-y-82	-	mean of the bodyaccjerk-mean-y-82
-mean-tbodyaccjerk-mean-z-83	-	mean of the bodyaccjerk-mean-z-83
-mean-tbodyaccjerk-std-x-84	-	mean of the bodyaccjerk-std-x-84
-mean-tbodyaccjerk-std-y-85	-	mean of the bodyaccjerk-std-y-85
-mean-tbodyaccjerk-std-z-86	-	mean of the bodyaccjerk-std-z-86
-mean-tbodygyro-mean-x-121	-	mean of the bodygyro-mean-x-121
-mean-tbodygyro-mean-y-122	-	mean of the bodygyro-mean-y-122
-mean-tbodygyro-mean-z-123	-	mean of the bodygyro-mean-z-123
-mean-tbodygyro-std-x-124	-	mean of the bodygyro-std-x-124
-mean-tbodygyro-std-y-125	-	mean of the bodygyro-std-y-125
-mean-tbodygyro-std-z-126	-	mean of the bodygyro-std-z-126
-mean-tbodygyrojerk-mean-x-161	-	mean of the bodygyrojerk-mean-x-161
-mean-tbodygyrojerk-mean-y-162	-	mean of the bodygyrojerk-mean-y-162
-mean-tbodygyrojerk-mean-z-163	-	mean of the bodygyrojerk-mean-z-163
-mean-tbodygyrojerk-std-x-164	-	mean of the bodygyrojerk-std-x-164
-mean-tbodygyrojerk-std-y-165	-	mean of the bodygyrojerk-std-y-165
-mean-tbodygyrojerk-std-z-166	-	mean of the bodygyrojerk-std-z-166
-mean-tbodyaccmag-mean-201	-	mean of the bodyaccmag-mean-201
-mean-tbodyaccmag-std-202	-	mean of the bodyaccmag-std-202
-mean-tgravityaccmag-mean-214	-	mean of the gravityaccmag-mean-214
-mean-tgravityaccmag-std-215	-	mean of the gravityaccmag-std-215
-mean-tbodyaccjerkmag-mean-227	-	mean of the bodyaccjerkmag-mean-227
-mean-tbodyaccjerkmag-std-228	-	mean of the bodyaccjerkmag-std-228
-mean-tbodygyromag-mean-240	-	mean of the bodygyromag-mean-240
-mean-tbodygyromag-std-241	-	mean of the bodygyromag-std-241
-mean-tbodygyrojerkmag-mean-253	-	mean of the bodygyrojerkmag-mean-253
-mean-tbodygyrojerkmag-std-254	-	mean of the bodygyrojerkmag-std-254
-mean-fbodyacc-mean-x-266	-	mean of the bodyacc-mean-x-266
-mean-fbodyacc-mean-y-267	-	mean of the bodyacc-mean-y-267
-mean-fbodyacc-mean-z-268	-	mean of the bodyacc-mean-z-268
-mean-fbodyacc-std-x-269	-	mean of the bodyacc-std-x-269
-mean-fbodyacc-std-y-270	-	mean of the bodyacc-std-y-270
-mean-fbodyacc-std-z-271	-	mean of the bodyacc-std-z-271
-mean-fbodyacc-meanfreq-x-294	-	mean of the bodyacc-meanfreq-x-294
-mean-fbodyacc-meanfreq-y-295	-	mean of the bodyacc-meanfreq-y-295
-mean-fbodyacc-meanfreq-z-296	-	mean of the bodyacc-meanfreq-z-296
-mean-fbodyaccjerk-mean-x-345	-	mean of the bodyaccjerk-mean-x-345
-mean-fbodyaccjerk-mean-y-346	-	mean of the bodyaccjerk-mean-y-346
-mean-fbodyaccjerk-mean-z-347	-	mean of the bodyaccjerk-mean-z-347
-mean-fbodyaccjerk-std-x-348	-	mean of the bodyaccjerk-std-x-348
-mean-fbodyaccjerk-std-y-349	-	mean of the bodyaccjerk-std-y-349
-mean-fbodyaccjerk-std-z-350	-	mean of the bodyaccjerk-std-z-350
-mean-fbodyaccjerk-meanfreq-x-373	-	mean of the bodyaccjerk-meanfreq-x-373
-mean-fbodyaccjerk-meanfreq-y-374	-	mean of the bodyaccjerk-meanfreq-y-374
-mean-fbodyaccjerk-meanfreq-z-375	-	mean of the bodyaccjerk-meanfreq-z-375
-mean-fbodygyro-mean-x-424	-	mean of the bodygyro-mean-x-424
-mean-fbodygyro-mean-y-425	-	mean of the bodygyro-mean-y-425
-mean-fbodygyro-mean-z-426	-	mean of the bodygyro-mean-z-426
-mean-fbodygyro-std-x-427	-	mean of the bodygyro-std-x-427
-mean-fbodygyro-std-y-428	-	mean of the bodygyro-std-y-428
-mean-fbodygyro-std-z-429	-	mean of the bodygyro-std-z-429
-mean-fbodygyro-meanfreq-x-452	-	mean of the bodygyro-meanfreq-x-452
-mean-fbodygyro-meanfreq-y-453	-	mean of the bodygyro-meanfreq-y-453
-mean-fbodygyro-meanfreq-z-454	-	mean of the bodygyro-meanfreq-z-454
-mean-fbodyaccmag-mean-503	-	mean of the bodyaccmag-mean-503
-mean-fbodyaccmag-std-504	-	mean of the bodyaccmag-std-504
-mean-fbodyaccmag-meanfreq-513	-	mean of the bodyaccmag-meanfreq-513
-mean-fbodybodyaccjerkmag-mean-516	-	mean of the bodybodyaccjerkmag-mean-516
-mean-fbodybodyaccjerkmag-std-517	-	mean of the bodybodyaccjerkmag-std-517
-mean-fbodybodyaccjerkmag-meanfreq-526	-	mean of the bodybodyaccjerkmag-meanfreq-526
-mean-fbodybodygyromag-mean-529	-	mean of the bodybodygyromag-mean-529
-mean-fbodybodygyromag-std-530	-	mean of the bodybodygyromag-std-530
-mean-fbodybodygyromag-meanfreq-539	-	mean of the bodybodygyromag-meanfreq-539
-mean-fbodybodygyrojerkmag-mean-542	-	mean of the bodybodygyrojerkmag-mean-542
-mean-fbodybodygyrojerkmag-std-543	-	mean of the bodybodygyrojerkmag-std-543
-mean-fbodybodygyrojerkmag-meanfreq-552	-	mean of the bodybodygyrojerkmag-meanfreq-552
-mean-angletbodyaccmeangravity-555	-	mean of the ngletbodyaccmeangravity-555
-mean-angletbodyaccjerkmeangravitymean-556	-	mean of the ngletbodyaccjerkmeangravitymean-556
-mean-angletbodygyromeangravitymean-557	-	mean of the ngletbodygyromeangravitymean-557
-mean-angletbodygyrojerkmeangravitymean-558	-	mean of the ngletbodygyrojerkmeangravitymean-558
-mean-anglexgravitymean-559	-	mean of the nglexgravitymean-559
-mean-angleygravitymean-560	-	mean of the ngleygravitymean-560
-mean-anglezgravitymean-561	-	mean of the nglezgravitymean-561
+1. subject_id	-	Identifier number for the subject
+2. activityName	-	The activity Name, from activities_labels.txt
+3. mean-tbodyacc-mean-x-1	-	mean of the bodyacc-mean-x-1
+4. mean-tbodyacc-mean-y-2	-	mean of the bodyacc-mean-y-2
+5. mean-tbodyacc-mean-z-3	-	mean of the bodyacc-mean-z-3
+6. mean-tbodyacc-std-x-4	-	mean of the bodyacc-std-x-4
+7. mean-tbodyacc-std-y-5	-	mean of the bodyacc-std-y-5
+8. mean-tbodyacc-std-z-6	-	mean of the bodyacc-std-z-6
+9. mean-tgravityacc-mean-x-41	-	mean of the gravityacc-mean-x-41
+10. mean-tgravityacc-mean-y-42	-	mean of the gravityacc-mean-y-42
+11. mean-tgravityacc-mean-z-43	-	mean of the gravityacc-mean-z-43
+12. mean-tgravityacc-std-x-44	-	mean of the gravityacc-std-x-44
+13. mean-tgravityacc-std-y-45	-	mean of the gravityacc-std-y-45
+14. mean-tgravityacc-std-z-46	-	mean of the gravityacc-std-z-46
+15. mean-tbodyaccjerk-mean-x-81	-	mean of the bodyaccjerk-mean-x-81
+16. mean-tbodyaccjerk-mean-y-82	-	mean of the bodyaccjerk-mean-y-82
+17. mean-tbodyaccjerk-mean-z-83	-	mean of the bodyaccjerk-mean-z-83
+18. mean-tbodyaccjerk-std-x-84	-	mean of the bodyaccjerk-std-x-84
+19. mean-tbodyaccjerk-std-y-85	-	mean of the bodyaccjerk-std-y-85
+20. mean-tbodyaccjerk-std-z-86	-	mean of the bodyaccjerk-std-z-86
+21. mean-tbodygyro-mean-x-121	-	mean of the bodygyro-mean-x-121
+22. mean-tbodygyro-mean-y-122	-	mean of the bodygyro-mean-y-122
+23. mean-tbodygyro-mean-z-123	-	mean of the bodygyro-mean-z-123
+24. mean-tbodygyro-std-x-124	-	mean of the bodygyro-std-x-124
+25. mean-tbodygyro-std-y-125	-	mean of the bodygyro-std-y-125
+26. mean-tbodygyro-std-z-126	-	mean of the bodygyro-std-z-126
+27. mean-tbodygyrojerk-mean-x-161	-	mean of the bodygyrojerk-mean-x-161
+28. mean-tbodygyrojerk-mean-y-162	-	mean of the bodygyrojerk-mean-y-162
+29. mean-tbodygyrojerk-mean-z-163	-	mean of the bodygyrojerk-mean-z-163
+30. mean-tbodygyrojerk-std-x-164	-	mean of the bodygyrojerk-std-x-164
+31. mean-tbodygyrojerk-std-y-165	-	mean of the bodygyrojerk-std-y-165
+32. mean-tbodygyrojerk-std-z-166	-	mean of the bodygyrojerk-std-z-166
+33. mean-tbodyaccmag-mean-201	-	mean of the bodyaccmag-mean-201
+34. mean-tbodyaccmag-std-202	-	mean of the bodyaccmag-std-202
+35. mean-tgravityaccmag-mean-214	-	mean of the gravityaccmag-mean-214
+36. mean-tgravityaccmag-std-215	-	mean of the gravityaccmag-std-215
+37. mean-tbodyaccjerkmag-mean-227	-	mean of the bodyaccjerkmag-mean-227
+38. mean-tbodyaccjerkmag-std-228	-	mean of the bodyaccjerkmag-std-228
+39. mean-tbodygyromag-mean-240	-	mean of the bodygyromag-mean-240
+40. mean-tbodygyromag-std-241	-	mean of the bodygyromag-std-241
+41. mean-tbodygyrojerkmag-mean-253	-	mean of the bodygyrojerkmag-mean-253
+42. mean-tbodygyrojerkmag-std-254	-	mean of the bodygyrojerkmag-std-254
+43. mean-fbodyacc-mean-x-266	-	mean of the bodyacc-mean-x-266
+44. mean-fbodyacc-mean-y-267	-	mean of the bodyacc-mean-y-267
+45. mean-fbodyacc-mean-z-268	-	mean of the bodyacc-mean-z-268
+46. mean-fbodyacc-std-x-269	-	mean of the bodyacc-std-x-269
+47. mean-fbodyacc-std-y-270	-	mean of the bodyacc-std-y-270
+48. mean-fbodyacc-std-z-271	-	mean of the bodyacc-std-z-271
+49. mean-fbodyacc-meanfreq-x-294	-	mean of the bodyacc-meanfreq-x-294
+50. mean-fbodyacc-meanfreq-y-295	-	mean of the bodyacc-meanfreq-y-295
+51. mean-fbodyacc-meanfreq-z-296	-	mean of the bodyacc-meanfreq-z-296
+52. mean-fbodyaccjerk-mean-x-345	-	mean of the bodyaccjerk-mean-x-345
+53. mean-fbodyaccjerk-mean-y-346	-	mean of the bodyaccjerk-mean-y-346
+54. mean-fbodyaccjerk-mean-z-347	-	mean of the bodyaccjerk-mean-z-347
+55. mean-fbodyaccjerk-std-x-348	-	mean of the bodyaccjerk-std-x-348
+56. mean-fbodyaccjerk-std-y-349	-	mean of the bodyaccjerk-std-y-349
+57. mean-fbodyaccjerk-std-z-350	-	mean of the bodyaccjerk-std-z-350
+58. mean-fbodyaccjerk-meanfreq-x-373	-	mean of the bodyaccjerk-meanfreq-x-373
+59. mean-fbodyaccjerk-meanfreq-y-374	-	mean of the bodyaccjerk-meanfreq-y-374
+60. mean-fbodyaccjerk-meanfreq-z-375	-	mean of the bodyaccjerk-meanfreq-z-375
+61. mean-fbodygyro-mean-x-424	-	mean of the bodygyro-mean-x-424
+62. mean-fbodygyro-mean-y-425	-	mean of the bodygyro-mean-y-425
+63. mean-fbodygyro-mean-z-426	-	mean of the bodygyro-mean-z-426
+64. mean-fbodygyro-std-x-427	-	mean of the bodygyro-std-x-427
+65. mean-fbodygyro-std-y-428	-	mean of the bodygyro-std-y-428
+66. mean-fbodygyro-std-z-429	-	mean of the bodygyro-std-z-429
+67. mean-fbodygyro-meanfreq-x-452	-	mean of the bodygyro-meanfreq-x-452
+68. mean-fbodygyro-meanfreq-y-453	-	mean of the bodygyro-meanfreq-y-453
+69. mean-fbodygyro-meanfreq-z-454	-	mean of the bodygyro-meanfreq-z-454
+70. mean-fbodyaccmag-mean-503	-	mean of the bodyaccmag-mean-503
+71. mean-fbodyaccmag-std-504	-	mean of the bodyaccmag-std-504
+72. mean-fbodyaccmag-meanfreq-513	-	mean of the bodyaccmag-meanfreq-513
+73. mean-fbodybodyaccjerkmag-mean-516	-	mean of the bodybodyaccjerkmag-mean-516
+74. mean-fbodybodyaccjerkmag-std-517	-	mean of the bodybodyaccjerkmag-std-517
+75. mean-fbodybodyaccjerkmag-meanfreq-526	-	mean of the bodybodyaccjerkmag-meanfreq-526
+76. mean-fbodybodygyromag-mean-529	-	mean of the bodybodygyromag-mean-529
+77. mean-fbodybodygyromag-std-530	-	mean of the bodybodygyromag-std-530
+78. mean-fbodybodygyromag-meanfreq-539	-	mean of the bodybodygyromag-meanfreq-539
+79. mean-fbodybodygyrojerkmag-mean-542	-	mean of the bodybodygyrojerkmag-mean-542
+80. mean-fbodybodygyrojerkmag-std-543	-	mean of the bodybodygyrojerkmag-std-543
+81. mean-fbodybodygyrojerkmag-meanfreq-552	-	mean of the bodybodygyrojerkmag-meanfreq-552
+82. mean-angletbodyaccmeangravity-555	-	mean of the ngletbodyaccmeangravity-555
+83. mean-angletbodyaccjerkmeangravitymean-556	-	mean of the ngletbodyaccjerkmeangravitymean-556
+84. mean-angletbodygyromeangravitymean-557	-	mean of the ngletbodygyromeangravitymean-557
+85. mean-angletbodygyrojerkmeangravitymean-558	-	mean of the ngletbodygyrojerkmeangravitymean-558
+86. mean-anglexgravitymean-559	-	mean of the nglexgravitymean-559
+87. mean-angleygravitymean-560	-	mean of the ngleygravitymean-560
+88. mean-anglezgravitymean-561	-	mean of the nglezgravitymean-561
